@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Docs - IslandGAME API
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -8,8 +8,9 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
+  - <a href='http://api.islandgame.fr'>Accéder à l'API</a>
+  - <a href='https://islandgame.fr'>Revenir sur le site</a>
+  - <em style="position:absolute;bottom:5px;">Version de l'API : 1.0.0</em>
 
 includes:
   - errors
