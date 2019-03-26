@@ -13,6 +13,11 @@ toc_footers:
   - <em style="position:absolute;bottom:5px;">Version de l'API : 1.0.0</em>
 
 includes:
+  - minecraft
+  - factorio
+  - search
+  - edition
+  - games
   - errors
 
 search: true
